@@ -41662,7 +41662,6 @@ id_distribuidor,id_red,id_operacion,tipo_prestamo,perdida_cosecha
 93854,94831,94834,prestamo_personal_red,0.0
 93855,106338,106344,prestamo_personal_red,0.0938051063829786
 93855,94859,94866,prestamo_personal_red,0.0
-93855,93855,98965,linea,
 93856,95211,95213,prestamo_personal_red,0.0
 93859,95211,95212,prestamo_personal_red,0.0
 93876,95039,95043,prestamo_personal_red,0.0
@@ -42756,7 +42755,6 @@ id_distribuidor,id_red,id_operacion,tipo_prestamo,perdida_cosecha
 95868,95868,96064,linea,0.0
 95877,112835,112837,prestamo_personal_red,0.0
 95877,96443,96447,prestamo_personal_red,0.0
-95907,95907,101969,linea,
 95907,96490,96492,prestamo_personal_red,0.1334632499999999
 95915,95915,101099,linea,0.0
 95915,95915,101106,linea,0.0
